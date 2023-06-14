@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Lightning-Script;
+    src: url(./font/Lightning-Script/Lightning\ Script.ttf);
+}
 html{
     font-size: 62.5%;
     background-image: url(./img/cool-background.png);
@@ -8,7 +12,7 @@ html{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Lightning Script';
+  font-family: Lightning-Script;
 }
 
 h1 {
